@@ -1,0 +1,7 @@
+---
+title: "Tracking the 91% decline in job openings at Amazon"
+format:
+  gfm:
+    output-file: "README.md"
+
+---
