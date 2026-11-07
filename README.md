@@ -1,4 +1,4 @@
-***Amazon Job Counts: Context and Data***
+###Amazon Job Counts: Context and Data
 
 Data was collected on the number of Amazon job openings, by job category, from the Amazon jobs’ website. Amazon’s job openings are advertised under 34 different job categories. The motivation is that Amazon is considered a bellwether of the tech industry.
 
