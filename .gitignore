@@ -13,3 +13,4 @@ src/amzcounts/explore_job_counts_for_reporting.ipynb
 /.quarto/
 **/*.quarto_ipynb
 .jekyll
+/_site/
