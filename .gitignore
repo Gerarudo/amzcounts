@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+src/amzcounts/explore_job_counts_for_reporting.ipynb
+
+/.quarto/
+**/*.quarto_ipynb
+.jekyll
+/_site/
