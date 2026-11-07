@@ -13,4 +13,4 @@ Data was again collected on the Amazon job openings in the period September 2026
 * By November 2026, the percentage decline from June 2022 had recovered slightly to 78%
 * Technical roles accounted for a large volume of the decline. For example, in June 2022, there were 32,437 open Software Development positions. In November 2026, the number stood at just 2,582.
 * Only Fulfillment roles have shown growth compared with June 2022, as of November 2026.
-* See the interactive charts in the [GitHub Pages link](https://picinae2.github.io/amzcounts/)for more details and to inspect changes for individual categories between 2022 and 2023. Data for September - November 2026 is also provided to bring comparisons up to date.
+* See the interactive charts in the [GitHub Pages link](https://picinae2.github.io/amzcounts/) for more details and to inspect changes for individual categories between 2022, 2023 and 2026.
