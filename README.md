@@ -1,3 +1,5 @@
+***Amazon Job Counts: Context and Data***
+
 Data was collected on the number of Amazon job openings, by job category, from the Amazon jobs’ website. Amazon’s job openings are advertised under 34 different job categories. The motivation is that Amazon is considered a bellwether of the tech industry.
 
 The data was collected on 243 days between the dates of June 19, 2022 and July 16, 2023, a span of 393 calendar days.
